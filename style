@@ -1,0 +1,4 @@
+body{
+    color:rgb(226, 199, 218);
+    backgrond:rgb(233, 125, 143);
+}
