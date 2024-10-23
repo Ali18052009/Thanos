@@ -1,4 +1,4 @@
 body{
     color:rgb(224, 18, 163);
-    backgrond:rgb(226, 133, 149);
+    background:rgb(226, 133, 149);
 }
