@@ -1,8 +1,10 @@
-body{
-    color:rgb(245, 226, 239);
-    background:rgb(226, 133, 149);
-}
+<body>{
+    color:rgb (245, 226, 239);
+background:rgb(226 ,133, 149);
 
-header {
-    border-bottom: solid 3px rgb(238, 163, 175)
+}
+    
+<header>
+border-bot solid 3px pink;
+</header>
 }
