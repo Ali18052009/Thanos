@@ -12,4 +12,6 @@ header{
 }   
 section{
     background: rgb(226 ,133, 149); 
+    display: flex;
+    justify-content: center;
 }
